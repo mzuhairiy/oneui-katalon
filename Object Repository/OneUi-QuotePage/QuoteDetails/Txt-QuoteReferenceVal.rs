@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Txt-QuoteReferenceVal</name>
+   <tag></tag>
+   <elementGuidId>7419c980-adc1-4d6d-b1e2-3152e529dd3d</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-body1.css-1bzc3n5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[normalize-space()='Quote Reference']/following-sibling::p[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;TMBAL120750&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>df81eccc-5d98-4afa-96cb-c202d6ad8cc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-body1 css-1bzc3n5</value>
+      <webElementGuid>fdbd2195-c397-4d76-b035-cc85b4e30346</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TMBAL120750</value>
+      <webElementGuid>861f8d7b-220a-48b0-8f81-70ec30ac6d3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@loopup/oneui-quote-management&quot;)/div[@class=&quot;MuiBox-root css-1i0ztyb&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1rn3zpv&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-5skkh5&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 css-ju0ghg&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12 css-obit8q&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-13bqh2q&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1kqalza&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-y48zcd&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-1bzc3n5&quot;]</value>
+      <webElementGuid>9497b7e5-1c71-4e47-be0d-90844e247e9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@loopup/oneui-quote-management']/div/div[3]/div/div/div[2]/div/div/div/div/div/p[2]</value>
+      <webElementGuid>2280190e-c6f6-4931-859f-089008050fd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Quote Information'])[1]/following::p[2]</value>
+      <webElementGuid>91328b0b-e156-4593-8f50-192c83fdf662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quote Details'])[1]/following::p[2]</value>
+      <webElementGuid>c3b007ac-3ac3-4db7-9bef-b2684da22cb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country Summary'])[1]/preceding::p[19]</value>
+      <webElementGuid>4fb66f08-745d-47a2-a792-5f28c2bc6046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number of users'])[1]/preceding::p[21]</value>
+      <webElementGuid>3b84c274-d314-484e-b7b7-ac76613a8954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TMBAL120750']/parent::*</value>
+      <webElementGuid>7c7c8df4-994b-481c-947b-20b93ec6c017</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>620f5707-34eb-458d-a545-2fe12ef4e294</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'TMBAL120750' or . = 'TMBAL120750')]</value>
+      <webElementGuid>9c6dbefa-a7d1-4d73-b95c-9f9f0d9649c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

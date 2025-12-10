@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC009-successfully-create-quote</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e04653a2-1a1c-4d8c-8118-18514bd9f806</testCaseGuid>
+</TestCaseEntity>

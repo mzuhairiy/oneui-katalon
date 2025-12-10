@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TopBar-ProfileDropD</name>
+   <tag></tag>
+   <elementGuidId>458b2b46-90c9-4d94-bac8-165c29528844</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@loopup/oneui-top-bar']/header/div/div/div[3]/div/div/h6</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h6.MuiTypography-root.MuiTypography-h6.MuiTypography-alignCenter.MuiTypography-noWrap.css-143waf1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;AL Anton Lab&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>1ee0b5fa-834c-49d8-93da-6fd4b0c555d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h6 MuiTypography-alignCenter MuiTypography-noWrap css-143waf1</value>
+      <webElementGuid>2d70c60c-47bb-46c1-8c83-1d79275376f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anton Lab</value>
+      <webElementGuid>97b4b86a-de53-4e89-bdd9-e70b30d68d08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@loopup/oneui-top-bar&quot;)/header[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-wb5n8s&quot;]/div[@class=&quot;MuiBox-root css-1mkn1jv&quot;]/div[@class=&quot;MuiGrid2-root MuiGrid2-direction-xs-row css-1fxa8cd&quot;]/div[@class=&quot;MuiGrid2-root MuiGrid2-direction-xs-row css-1vy1kxx&quot;]/div[@class=&quot;MuiButtonBase-root css-10hfji3&quot;]/div[@class=&quot;MuiBox-root css-192qrng&quot;]/h6[@class=&quot;MuiTypography-root MuiTypography-h6 MuiTypography-alignCenter MuiTypography-noWrap css-143waf1&quot;]</value>
+      <webElementGuid>a1bfc8ea-9f2d-4af9-a5db-bdc16df7d14e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@loopup/oneui-top-bar']/header/div/div/div[3]/div/div/h6</value>
+      <webElementGuid>42279755-9fbe-4ebb-b48f-21315728cf80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::h6[1]</value>
+      <webElementGuid>15fcdb3d-0706-494b-af62-c2fe36a97f51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::h6[1]</value>
+      <webElementGuid>56b74d0d-8380-484c-9739-872bd8c745ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Customers'])[2]/preceding::h6[1]</value>
+      <webElementGuid>60a983a4-6fd7-4ebf-85b6-1cb310107d67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/preceding::h6[1]</value>
+      <webElementGuid>cc0e9e5e-639a-4bd2-98c4-b8734f34dbea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Anton Lab']/parent::*</value>
+      <webElementGuid>790f6f15-d829-4324-9225-2107c2d2c35b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h6</value>
+      <webElementGuid>f922f2f5-6305-4c46-bc26-98606df7e5c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Anton Lab' or . = 'Anton Lab')]</value>
+      <webElementGuid>1916bc3b-f460-49bd-b427-8b1a35f679a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

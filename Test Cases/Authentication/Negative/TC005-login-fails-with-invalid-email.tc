@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005-login-fails-with-invalid-email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>477de391-6e79-4190-a35e-61add72fc3d3</testCaseGuid>
+</TestCaseEntity>

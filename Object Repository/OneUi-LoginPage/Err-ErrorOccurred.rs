@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Err-ErrorOccurred</name>
+   <tag></tag>
+   <elementGuidId>95845e68-8a34-4ad1-a2e8-ad9950223706</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/form/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;An unknown error occurred, please try again. If the issue persists, contact supp&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b3830d71-524e-4760-a8e2-16c24ca58356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error</value>
+      <webElementGuid>b7fa538c-3c7e-460c-8189-67b71682cfb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>An unknown error occurred, please try again. If the issue persists, contact support</value>
+      <webElementGuid>21dde86e-d4e8-4722-8370-6035db170612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;page&quot;]/div[@class=&quot;page-content-section&quot;]/div[@class=&quot;page-content&quot;]/form[@class=&quot;password-content&quot;]/span[@class=&quot;error&quot;]</value>
+      <webElementGuid>e7ba523a-6366-49e0-8a9e-f431d8c25c67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/form/span</value>
+      <webElementGuid>21900e9f-7524-45a6-a10d-a5179005d8fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter password'])[1]/following::span[1]</value>
+      <webElementGuid>9c11a29d-c24f-44f9-b3c9-aec73b465383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IntroducingLoopUp One'])[1]/following::span[1]</value>
+      <webElementGuid>c51cdf48-156a-4499-a79b-921715dfda13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me signed in'])[1]/preceding::span[1]</value>
+      <webElementGuid>525acc04-98a1-459e-bb78-4cb56b387523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/preceding::span[1]</value>
+      <webElementGuid>e9ecd120-8a60-4a48-a979-b4cb21735668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='An unknown error occurred, please try again. If the issue persists, contact support']/parent::*</value>
+      <webElementGuid>2f65159c-0dee-4dcd-aad9-9f48849ff745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>2dad745e-7659-4294-a114-509af052f9aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'An unknown error occurred, please try again. If the issue persists, contact support' or . = 'An unknown error occurred, please try again. If the issue persists, contact support')]</value>
+      <webElementGuid>701b2535-3ff4-4a2b-8041-d7ae4f977f1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

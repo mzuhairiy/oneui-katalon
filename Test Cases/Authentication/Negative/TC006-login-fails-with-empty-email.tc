@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC006-login-fails-with-empty-email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0a41a50c-20b4-42a6-9876-eeffc823518e</testCaseGuid>
+</TestCaseEntity>

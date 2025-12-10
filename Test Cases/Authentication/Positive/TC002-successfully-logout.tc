@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002-successfully-logout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>788c6d78-cb6b-4956-9bc6-8469f63db188</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e38cc534-7bc5-4de8-98d4-d16d80a24106</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e38cc534-7bc5-4de8-98d4-d16d80a24106</id>
+      <masked>false</masked>
+      <name>link_login</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>YourCustomers-H1</name>
+   <tag></tag>
+   <elementGuidId>655dc95a-492b-45e1-8f8c-9d2c8d66dad4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@loopup/oneui-customer-search']/div/div/div[2]/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.MuiTypography-root.MuiTypography-h1.css-1fbz93v</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Your Customers&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>4fa16967-acc3-45be-b927-e9c01bf9c9b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h1 css-1fbz93v</value>
+      <webElementGuid>2bb2d2f4-88a9-4abd-be1b-d1ce1468500c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your Customers</value>
+      <webElementGuid>ddda0417-eff6-41c5-adc7-c3dc980177df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@loopup/oneui-customer-search&quot;)/div[@class=&quot;MuiBox-root css-vz1jw7&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-7ni9iy&quot;]/div[@class=&quot;MuiCardContent-root css-1f7njfs&quot;]/h1[@class=&quot;MuiTypography-root MuiTypography-h1 css-1fbz93v&quot;]</value>
+      <webElementGuid>36cf6494-973a-4244-88ca-3dd3ca690ab8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@loopup/oneui-customer-search']/div/div/div[2]/h1</value>
+      <webElementGuid>c8b6deb1-5db2-4983-8620-3d3965908de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anton Lab'])[1]/following::h1[1]</value>
+      <webElementGuid>cdb3531f-b166-450b-be61-c5a3e6b5ca1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::h1[1]</value>
+      <webElementGuid>9ed75859-8b72-4aef-b5e4-e50354e35ccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/preceding::h1[1]</value>
+      <webElementGuid>3580766c-d328-4ab1-a4e9-6443b845b2ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Customer'])[1]/preceding::h1[1]</value>
+      <webElementGuid>5c9d656a-3e1b-4750-9720-b44137883550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>d518b02d-7c26-4ee8-a634-d1c6b4bb2581</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Your Customers' or . = 'Your Customers')]</value>
+      <webElementGuid>86dec580-cfc7-46f6-8749-b80e8662c11c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004-login-fails-with-wrong-email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d383d5ae-52a4-45c7-8845-2ee5c608f689</testCaseGuid>
+</TestCaseEntity>

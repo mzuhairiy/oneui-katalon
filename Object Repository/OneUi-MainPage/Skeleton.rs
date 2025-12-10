@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Skeleton</name>
+   <tag></tag>
+   <elementGuidId>ff8faa1c-2dc7-4bc4-9707-2f9af0e6ce88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@loopup/oneui-customer-search']/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.css-v697xn > span.MuiSkeleton-root.MuiSkeleton-rounded.MuiSkeleton-pulse.css-jkog7q</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[id=&quot;single-spa-application\:\@loopup\/oneui-customer-search&quot;] span >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>816ce3e3-e85a-45f8-8391-6b695451db65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiSkeleton-root MuiSkeleton-rounded MuiSkeleton-pulse css-jkog7q</value>
+      <webElementGuid>b181b404-93de-4adb-9008-731452768af9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@loopup/oneui-customer-search&quot;)/div[@class=&quot;MuiBox-root css-vz1jw7&quot;]/div[@class=&quot;MuiBox-root css-v697xn&quot;]/span[@class=&quot;MuiSkeleton-root MuiSkeleton-rounded MuiSkeleton-pulse css-jkog7q&quot;]</value>
+      <webElementGuid>3cfa8d0a-8cc4-4309-9c45-bb7eba14c49f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@loopup/oneui-customer-search']/div/div[2]/span</value>
+      <webElementGuid>f71dac9c-321f-4313-8926-4e544fe75774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/span</value>
+      <webElementGuid>18711384-316c-46bf-bcef-00f3e0e7d077</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
