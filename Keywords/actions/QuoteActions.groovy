@@ -49,7 +49,7 @@ public class QuoteActions {
 		data.preparedByEmail = fillPreparedByEmail()
 		data.preparedByCompany = fillPreparedByCompany()
 		data.preparedByPhone = fillPreparedByPhone()
-		WebUI.delay(0.2)
+		WebUI.delay(0.3)
 
 		WebUI.waitForElementClickable(findTestObject('Object Repository/OneUi-QuotePage/General-Quote-Information/Btn-SaveContinue'), 10)
 		WebUI.click(findTestObject('OneUi-QuotePage/General-Quote-Information/Btn-SaveContinue'))
@@ -127,7 +127,7 @@ public class QuoteActions {
 	def fillPreparedByName() {
 		def name = CustomKeywords.'utils.RandomData.randomName'()
 		TestObject nameField = findTestObject('OneUi-QuotePage/General-Quote-Information/Field-PB-Name')
-		CustomKeywords.'actions.GeneralActions.setCleanText'(nameField, name)	
+		CustomKeywords.'actions.GeneralActions.setCleanText'(nameField, name)
 		return name
 	}
 
