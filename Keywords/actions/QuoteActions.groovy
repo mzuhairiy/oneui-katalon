@@ -50,7 +50,7 @@ public class QuoteActions {
 		data.preparedByCompany = fillPreparedByCompany()
 		data.preparedByPhone = fillPreparedByPhone()
 		WebUI.delay(0.3)
-
+		//test commit
 		WebUI.waitForElementClickable(findTestObject('Object Repository/OneUi-QuotePage/General-Quote-Information/Btn-SaveContinue'), 10)
 		WebUI.click(findTestObject('OneUi-QuotePage/General-Quote-Information/Btn-SaveContinue'))
 		return data
