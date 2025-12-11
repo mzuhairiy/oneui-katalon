@@ -40,6 +40,8 @@ public class RandomData {
 
 	@Keyword
 	def randomPhone() {
-		faker.phoneNumber.countryCode()
+		// Generate 10–12 digit random number
+	    String digits = (1..10).collect { faker.random.nextInt(0,9) }.join("")
+	    return "44" + digits
 	}
 }
