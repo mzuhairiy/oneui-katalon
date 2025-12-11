@@ -28,9 +28,11 @@ import internal.GlobalVariable
 public class GeneralActions {
 	@Keyword
 	def openLoginPage() {
+		KeywordUtil.logInfo("Opening the login page..")
 		WebUI.openBrowser('')
 		WebUI.maximizeWindow()
 		WebUI.navigateToUrl(GlobalVariable.G_BaseUrl)
+		KeywordUtil.markPassed("Login page is successfully opened!")
 	}
 
 	@Keyword

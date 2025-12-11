@@ -84,14 +84,18 @@ public class QuoteActions {
 	def fillCurrency() {
 		WebUI.waitForElementClickable(findTestObject('OneUi-QuotePage/General-Quote-Information/Dd-Currency'), 10)
 		WebUI.click(findTestObject('OneUi-QuotePage/General-Quote-Information/Dd-Currency'))
-		return pickRandomOption(findTestObject('OneUi-QuotePage/General-Quote-Information/Dd-List-Currency'))
+		def value = pickRandomOption(findTestObject('OneUi-QuotePage/General-Quote-Information/Dd-List-Currency'))
+		KeywordUtil.logInfo("Selected currency: ${value}")
+		return value
 	}
 
 	@Keyword
 	def fillVolumeBand() {
 		WebUI.waitForElementClickable(findTestObject('OneUi-QuotePage/General-Quote-Information/Dd-VolumeBand'), 10)
 		WebUI.click(findTestObject('OneUi-QuotePage/General-Quote-Information/Dd-VolumeBand'))
-		return pickRandomOption(findTestObject('OneUi-QuotePage/General-Quote-Information/Dd-List-VolumeBand'))
+		def value = pickRandomOption(findTestObject('OneUi-QuotePage/General-Quote-Information/Dd-List-VolumeBand'))
+		KeywordUtil.logInfo("Selected volume band: ${value}")
+		return value
 	}
 
 	@Keyword
@@ -99,6 +103,7 @@ public class QuoteActions {
 		def validForDays = CustomKeywords.'utils.Utils.getRandomNumber'()
 		TestObject validForDaysField = findTestObject('Object Repository/OneUi-QuotePage/General-Quote-Information/Field-ValidForDays')
 		CustomKeywords.'actions.GeneralActions.setCleanText'(validForDaysField, validForDays)
+		KeywordUtil.logInfo("Valid for: ${validForDays} days")
 		return validForDays
 	}
 
@@ -106,6 +111,7 @@ public class QuoteActions {
 	def fillValidFrom() {
 		WebUI.click(findTestObject('Object Repository/OneUi-QuotePage/General-Quote-Information/Btn-DatePicker'))
 		def validFrom = CustomKeywords.'utils.Utils.selectDay'()
+		KeywordUtil.logInfo("Valid from: ${validFrom}")
 		return validFrom
 	}
 
@@ -113,6 +119,7 @@ public class QuoteActions {
 	def fillPreparedForName() {
 		def name = CustomKeywords.'utils.RandomData.randomName'()
 		WebUI.setText(findTestObject('OneUi-QuotePage/General-Quote-Information/Field-PF-Name'), name)
+		KeywordUtil.logInfo("Prepared for: ${name}")
 		return name
 	}
 
@@ -120,6 +127,7 @@ public class QuoteActions {
 	def fillPreparedForCompany() {
 		def company = CustomKeywords.'utils.RandomData.randomCompany'()
 		WebUI.setText(findTestObject('OneUi-QuotePage/General-Quote-Information/Field-PF-Company'), company)
+		KeywordUtil.logInfo("Prepared for (Company): ${company}")
 		return company
 	}
 
@@ -128,6 +136,7 @@ public class QuoteActions {
 		def name = CustomKeywords.'utils.RandomData.randomName'()
 		TestObject nameField = findTestObject('OneUi-QuotePage/General-Quote-Information/Field-PB-Name')
 		CustomKeywords.'actions.GeneralActions.setCleanText'(nameField, name)
+		KeywordUtil.logInfo("Prepared by: ${name}")
 		return name
 	}
 
@@ -135,6 +144,7 @@ public class QuoteActions {
 		def email = CustomKeywords.'utils.RandomData.randomEmail'()
 		TestObject emailField = findTestObject('OneUi-QuotePage/General-Quote-Information/Field-PB-Email')
 		CustomKeywords.'actions.GeneralActions.setCleanText'(emailField, email)
+		KeywordUtil.logInfo("Email: ${email}")
 		return email
 	}
 
@@ -143,6 +153,7 @@ public class QuoteActions {
 		def company = CustomKeywords.'utils.RandomData.randomCompany'()
 		TestObject companyField = findTestObject('OneUi-QuotePage/General-Quote-Information/Field-PB-Company')
 		CustomKeywords.'actions.GeneralActions.setCleanText'(companyField, company)
+		KeywordUtil.logInfo("Company: ${company}")
 		return company
 	}
 
@@ -150,6 +161,7 @@ public class QuoteActions {
 	def fillPreparedByPhone() {
 		def phoneNumber = CustomKeywords.'utils.RandomData.randomPhone'()
 		WebUI.setText(findTestObject('OneUi-QuotePage/General-Quote-Information/Field-PB-PhoneNumber'), phoneNumber)
+		KeywordUtil.logInfo("Phone number: ${phoneNumber}")
 		return phoneNumber
 	}
 }
